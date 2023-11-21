@@ -47,10 +47,9 @@ I am currently an assistant professor at Shenzhen University, Shenzhen. In 2023,
 </span></strong>-->
 - [AAAI 2023 distinguished paper award](https://aihub.org/2023/02/11/congratulations-to-the-aaai2023-best-paper-winners/)
 
-
-- Masked Two-channel Decoupling Framework for Incomplete Multi-view Weak Multi-label Learning, Chengliang Liu, Jie Wen, Yabo Liu, Chao Huang, Zhihao Wu, **Xiaoling Luo**, Yong XuJ, **NeurIPS 2023** (CCF-A)
-
 - (Oral) [Incomplete Multi-View Multi-Label Learning via Label-Guided Masked View-and Category-Aware Transformers](https://arxiv.org/pdf/2303.07180), Chengliang Liu, Jie Wen, **Xiaoling Luo**, Yong Xu, **AAAI 2023** (CCF-A)
+
+- Masked Two-channel Decoupling Framework for Incomplete Multi-view Weak Multi-label Learning, Chengliang Liu, Jie Wen, Yabo Liu, Chao Huang, Zhihao Wu, **Xiaoling Luo**, Yong Xu, **NeurIPS 2023** (CCF-A)
 
 
 ## Journal Papers
