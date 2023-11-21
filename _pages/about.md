@@ -33,7 +33,7 @@ I am currently an assistant professor at Shenzhen University, Shenzhen. In 2023,
 
 
 ## Conference Papers
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/MVCINN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/MVCINN.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 (Oral) [MVCINN: Multi-View Diabetic Retinopathy Detection Using a Deep Cross-Interaction Neural Network](https://ojs.aaai.org/index.php/AAAI/article/download/26080/25852) (CCF-A)
 
