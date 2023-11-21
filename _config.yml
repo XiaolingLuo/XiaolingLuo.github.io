@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Chengliang Liu (刘成亮)"
-description              : "PhD student at Harbin Institute of Technology, Shenzhen"
-repository               : "justsmart/justsmart.github.io"
+title                    : "Xiaoling Luo (罗笑玲)"
+description              : "She is currently an assistant professor at Shenzhen University, Shenzhen. She received her PhD from Harbin Institute of Technology, Shenzhen."
+repository               : "XiaolingLuo/XiaolingLuo.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Chengliang Liu"
+  name             : "Xiaoling Luo"
   avatar           : "images/me.jpg"
   bio              : ""
   location         : "Shenzhen, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=ZfVmxqkAAAAJ&hl=zh-CN"
-  email            : "liucl1996@163.com"
-  researchgate     : "https://www.researchgate.net/profile/Chengliang-Liu-4?ev=hdr_xprf"
+  googlescholar    : "https://scholar.google.com/citations?user=d-6X2kUAAAAJ&hl=zh-CN&oi=ao"
+  email            : "xiaolingluoo@outlook.com"
+  researchgate     : ""
   uri              :
   bitbucket        :
   codepen          :
@@ -37,16 +37,17 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "justsmart"
+  github           : "XiaolingLuo"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : "https://dblp.org/pid/30/5444-3.html"
-  orcid            : "https://orcid.org/0000-0001-5983-8981"
+  dblp             : "https://dblp.dagstuhl.de/pid/96/9539.html"
+  orcid            : "https://orcid.org/0000-0003-3678-3185"
   pinterest        :
+  
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
