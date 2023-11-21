@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently working toward the Doctoral degree with the Harbin Institute of Technology, Shenzhen, advised by [Yong Xu (徐勇)](http://faculty.hitsz.edu.cn/xuyong) and [Jie Wen (文杰)](https://sites.google.com/view/jerry-wen-hit/home?authuser=0). I graduated from Jilin University with a bachelor’s degree in computer science and from Huazhong University of Science and Technology with a master's degree in computer science. My research interests include machine learning and computer vision, especially multi-view representation learning.
+I am currently an assistant professor at Shenzhen University, Shenzhen. In 2023, I received my Doctoral degree from Harbin Institute of Technology, Shenzhen, and my doctoral supervisor was [Yong Xu (徐勇)](http://faculty.hitsz.edu.cn/xuyong). In 2017, I graduated from South China Normal University with a bachelor’s degree in Software Engineering. My research interests include computer vision and medical image processing.
 
 <!--My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).-->
 
@@ -25,60 +25,56 @@ I am currently working toward the Doctoral degree with the Harbin Institute of T
 # News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 - *2023.09*: Our paper is accepted by NeurIPS 2023! 
-- *2023.07*: Our paper is accepted by ACM MM 2023! 
 - *2023.06*: Our paper is accepted by TNNLS! 
-- *2023.03*: Our paper is accepted by TNNLS! 
-- *2023.02*: Our paper is accepted by CVPR 2023! 
-- *2023.02*: We win the AAAI 2023 distinguished paper award! 
+- *2023.02*: We won the AAAI 2023 distinguished paper award! 
 - *2022.11*: Three papers are accepted by AAAI 2023!
-- *2022.06*: Our paper is accepted by ACM MM 2022!
 
 # Publications 
 
-## Conference Papers
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/DICNet.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-(Oral) [DICNet: Deep Instance-Level Contrastive Network for Double Incomplete Multi-View Multi-Label Classification](https://arxiv.org/pdf/2303.08358.pdf) (CCF-A)
 
-**Chengliang Liu**, Jie Wen, Xiaoling Luo, Chao Huang, Zhihao Wu, Yong Xu
+## Conference Papers
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/MVCINN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+(Oral) [MVCINN: Multi-View Diabetic Retinopathy Detection Using a Deep Cross-Interaction Neural Network](https://ojs.aaai.org/index.php/AAAI/article/download/26080/25852) (CCF-A)
+
+**Xiaoling Luo**, Chengliang Liu, Waikeung Wong, Jie Wen, Xiaopeng Jin, Yong Xu
+
 
 <!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
 - [AAAI 2023 distinguished paper award](https://aihub.org/2023/02/11/congratulations-to-the-aaai2023-best-paper-winners/)
 </div>
 </div>
-- Masked Two-channel Decoupling Framework for Incomplete Multi-view Weak Multi-label Learning, **Chengliang Liu**, Jie Wen, Yabo Liu, Chao Huang, Zhihao Wu, Xiaoling Luo, Yong XuJ, **NeurIPS 2023** (CCF-A)
+- Masked Two-channel Decoupling Framework for Incomplete Multi-view Weak Multi-label Learning, Chengliang Liu, Jie Wen, Yabo Liu, Chao Huang, Zhihao Wu, **Xiaoling Luo**, Yong XuJ, **NeurIPS 2023** (CCF-A)
 
-- [Localized and Balanced Efficient Incomplete Multi-view Clustering](), Jie Wen, Gehui Xu, **Chengliang Liu**, Lunke Fei, Chao Huang, Wei Wang, Yong Xu, **ACM MM 2023** (Corresponding author, CCF-A)
+- (Oral) [Incomplete Multi-View Multi-Label Learning via Label-Guided Masked View-and Category-Aware Transformers](https://arxiv.org/pdf/2303.07180), Chengliang Liu, Jie Wen, **Xiaoling Luo**, Yong Xu, **AAAI 2023** (CCF-A)
 
-- [Highly Confident Local Structure Based Consensus Graph Learning for Incomplete Multi-view Clustering](https://openaccess.thecvf.com/content/CVPR2023/html/Wen_Highly_Confident_Local_Structure_Based_Consensus_Graph_Learning_for_Incomplete_CVPR_2023_paper.html), Jie Wen, **Chengliang Liu**, Gehui Xu, Zhihao Wu, Chao Huang, Lunke Fei, Yong Xu, **CVPR 2023** (Co-first author, CCF-A)
-
-- (Oral) [Incomplete Multi-View Multi-Label Learning via Label-Guided Masked View-and Category-Aware Transformers](https://arxiv.org/pdf/2303.07180), **Chengliang Liu**, Jie Wen, Xiaoling Luo, Yong Xu, **AAAI 2023** (CCF-A)
-
-- (Oral) [MVCINN: Multi-View Diabetic Retinopathy Detection Using a Deep Cross-Interaction Neural Network](https://ojs.aaai.org/index.php/AAAI/article/download/26080/25852), Xiaoling Luo, **Chengliang Liu**, Waikeung Wong, Jie Wen, Xiaopeng Jin
-, Yong Xu, **AAAI 2023** (Co-first author, CCF-A)
-
-- [Pixel-Level Anomaly Detection via Uncertainty-Aware Prototypical Transformer](https://scholar.archive.org/work/tlli7rstvzfcrivc4rnvlcclmi/access/wayback/https://dl.acm.org/doi/pdf/10.1145/3503161.3548082), Chao Huang, **Chengliang Liu**, Zheng Zhang, Zhihao Wu, Jie Wen, Qiuping Jiang, Yong Xu, **ACM MM 2022** (Co-first author, CCF-A)
+- (Oral) [DICNet: Deep Instance-Level Contrastive Network for Double Incomplete Multi-View Multi-Label Classification](https://arxiv.org/pdf/2303.08358.pdf), Chengliang Liu, Jie Wen, **Xiaoling Luo**, Chao Huang, Zhihao Wu, Yong Xu, **AAAI 2023** (CCF-A)
 
 
 
 ## Journal Papers
-- [Information Recovery-Driven Deep Incomplete Multi-view Clustering Network](https://arxiv.org/abs/2304.00429), **Chengliang Liu**, Jie Wen, Zhihao Wu, Xiaoling Luo, Chao Huang, Yong xu, IEEE Transactions on Neural Networks and Learning Systems, 2023 (CCF-B, JCR Q1, IF-14.255)
 
-- [Deep Double Incomplete Multi-View Multi-Label Learning With Incomplete Labels and Missing Views](https://ieeexplore.ieee.org/abstract/document/10086538/), Jie Wen, **Chengliang Liu**, Shijie Deng, Yicheng Liu, Lunke Fei, Ke Yan, Yong Xu, IEEE Transactions on Neural Networks and Learning Systems, 2023 (Corresponding author, CCF-B, JCR Q1, IF-14.255)
+- [RV-ESA: A novel computer-aided elastic shape analysis system for retinal vessels in diabetic retinopathy](https://doi.org/10.1016/j.compbiomed.2022.106406), **Xiaoling Luo**, Honggang Zhang, Jingyong Su, Wai Keung Wong, Jinkai L, Yong Xu, Computers in Biology and Medicine, 152: 106406, 2023 (JCR Q1, IF-7.7)
 
-- [Localized sparse incomplete multi-view clustering](https://arxiv.org/pdf/2208.02998), **Chengliang Liu**, Zhihao Wu, Jie Wen, Yong Xu, Chao Huang, IEEE Transactions on Multimedia, 2022 (CCF-B, JCR Q1, IF-8.182)
+- [A Deep Convolutional Neural Network for Diabetic Retinopathy Detection via Mining Local and Long-Range Dependence](https://doi.org/10.1049/cit2.12155), **Xiaoling Luo**, Wei Wang, Yong Xu, Zhihui Lai, Xiaopeng Jin, Bob Zhang, David Zhang, CAAI Transactions on Intelligence Technology, 2023. (JCR Q2, IF-5.1)
 
-- [Weakly Supervised Video Anomaly Detection via Self-Guided Temporal Discriminative Transformer](https://ieeexplore.ieee.org/abstract/document/10002867/), Chao Huang, **Chengliang Liu**, Jie Wen, Lian Wu, Yong Xu, Qiuping Jiang, Yaowei Wang, IEEE Transactions on Cybernetics, 2022 (Co-first author, CCF-B, JCR Q1, IF-19.118)
+- [Information Recovery-Driven Deep Incomplete Multi-view Clustering Network](https://arxiv.org/abs/2304.00429), Chengliang Liu, Jie Wen, Zhihao Wu, **Xiaoling Luo**, Chao Huang, Yong Xu, IEEE Transactions on Neural Networks and Learning Systems, 2023. (CCF-B, JCR Q1, IF-10.4)
+
+- [PHR-search: a search framework for protein remote homology detection based on the predicted protein hierarchical relationships](https://doi.org/10.1093/bib/bbab609), Xiaopeng Jin, **Xiaoling Luo**, Bin Liu, Briefings in Bioinformatics, 23:2, bbab609, 2022. (JCR Q1, IF-9.5)
+
+- [MVDRNet: Multi-View Diabetic Retinopathy Detection by Combining DCNNs and Attention Mechanisms](https://doi.org/10.1016/j.patcog.2021.108104), **Xiaoling Luo**, Zuhui Pu, Yong Xu, Wai Keung Wong, Jingyong Su, Xiaoyan Dou, Baikang Ye, Jiying Hu, Lisha Mou, Pattern Recognition, 120: 108104, 2021. (CCF-B, JCR Q1, IF-8.0)
+
+- [Multi-resolution Dictionary Learning for Face Recognition](https://doi.org/10.1016/j.patcog.2019.04.027), **Xiaoling Luo**, Yong Xu, Jian Yang, Pattern Recognition, 93: 283-292, 2019. (CCF-B, JCR Q1, IF-14.255)
+
+
 
 # Honors and Awards
-- *2023.10* National scholarship.
 - *2023.02* [AAAI 2023 distinguished paper award](https://aihub.org/2023/02/11/congratulations-to-the-aaai2023-best-paper-winners/).
 
 # Educations
-- *2020.09 - now*, School of Computer Science of Technology, Harbin Institute of Technology, Shenzhen, China. 
-- *2018.09 - 2020.06*, School of Computer Science of Technology, Huazhong University of Science and Technology, Wuhan, China. 
-- *2014.09 - 2018.06*, College of Computer Science of Technology, Jilin University, Changchun, China. 
+- *2017.09 - 2023.09*, School of Computer Science of Technology, Harbin Institute of Technology, Shenzhen, China. 
+- *2013.09 - 2017.06*, School of Software Engineering, South China Normal University, China. 
 
 # Academic Activities
-- Journal Reviewers of IEEE TNNLS, IEEE TCSVT, CAAI TRIT
-- Program Committee Members of AAAI, ACM MM 
+- Journal Reviewers of IEEE TNNLS, CAAI TRIT
+- Program Committee Members of AAAI 
