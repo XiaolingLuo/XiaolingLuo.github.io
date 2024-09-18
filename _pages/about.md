@@ -40,7 +40,6 @@ I am currently an assistant professor at Shenzhen University, Shenzhen. In 2023,
 (Oral) [MVCINN: Multi-View Diabetic Retinopathy Detection Using a Deep Cross-Interaction Neural Network](https://ojs.aaai.org/index.php/AAAI/article/download/26080/25852), **Xiaoling Luo**, Chengliang Liu, Waikeung Wong, Jie Wen, Xiaopeng Jin, Yong Xu, **AAAI 2023** (CCF-A)
 </div>
 </div>
-
 - [HACDR-Net: Heterogeneous-Aware Convolutional Network for Diabetic Retinopathy Multi-Lesion Segmentation][(https://arxiv.org/pdf/2303.08358.pdf)](https://ojs.aaai.org/index.php/AAAI/article/download/28453/28882), Qihao Xu, **Xiaoling Luo (corresponding author)**, Chao Huang, Chengliang Liu, Jie Wen, Jialei Wang, Yong Xu, **AAAI 2024** (CCF-A)
 
 - (Oral) [DICNet: Deep Instance-Level Contrastive Network for Double Incomplete Multi-View Multi-Label Classification](https://arxiv.org/pdf/2303.08358.pdf), Chengliang Liu, Jie Wen, **Xiaoling Luo**, Chao Huang, Zhihao Wu, Yong Xu, **AAAI 2023** (CCF-A)
