@@ -26,6 +26,7 @@ I am currently an assistant professor at Shenzhen University, Shenzhen. In 2023,
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 - *2024.12*: Three papers are accepted by AAAI 2025!
 - *2024.07*: One paper is accepted by BIB!
+- *2024.06*: Two papers are accepted by MICCAI 2024!
 - *2024.04*: One paper is accepted by JBHI!
 - *2023.11*: Two papers are accepted by AAAI 2024!
 - *2023.09*: Our paper is accepted by NeurIPS 2023! 
@@ -83,5 +84,5 @@ I am currently an assistant professor at Shenzhen University, Shenzhen. In 2023,
 - *2013.09 - 2017.06*, School of Software Engineering, South China Normal University, China. 
 
 # Academic Activities
-- Journal Reviewers of IEEE TNNLS, CAAI TRIT
+- Journal Reviewers of IEEE TNNLS, Pattern Recognition, CAAI TRIT, AAAI, NeurIPS, ICML, ICLR, ACM MM, MICCAI
 - Program Committee Members of AAAI 
