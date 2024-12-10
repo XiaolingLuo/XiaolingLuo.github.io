@@ -24,6 +24,7 @@ I am currently an assistant professor at Shenzhen University, Shenzhen. In 2023,
 
 # News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+- *2024.12*: Three papers are accepted by AAAI 2025!
 - *2024.07*: One paper is accepted by BIB!
 - *2024.04*: One paper is accepted by JBHI!
 - *2023.11*: Two papers are accepted by AAAI 2024!
@@ -56,7 +57,9 @@ I am currently an assistant professor at Shenzhen University, Shenzhen. In 2023,
 
 ## Journal Papers
 
-- [A Lesion-Fusion Neural Network for Multi-View Diabetic Retinopathy Grading](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10488692), **Xiaoling Luo**, Qihao Xu, Zhihua Wang, et al., IEEE Journal of Biomedical and Health Informatics, Early Access, 1-11, 2024. (JCR Q1, IF-7.7)
+- [A Lesion-Fusion Neural Network for Multi-View Diabetic Retinopathy Grading](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10488692), **Xiaoling Luo**, Qihao Xu, Zhihua Wang, et al., IEEE Journal of Biomedical and Health Informatics, Early Access, 1-11, 2024. (JCR Q1, Top, IF-7.7)
+
+-  [A comprehensive review and comparison of existing computational methods for protein function prediction]([https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10488692](https://academic.oup.com/bib/article/25/4/bbae289/7696515?login=false)), Baohui Lin#, **Xiaoling Luo**#, Yumeng Liu, Xiaopeng Jin, Briefings in Bioinformatics, Volume 25, Issue 4, July 2024, bbae289. (JCR Q1, Top，IF-6.8)
 
 - [RV-ESA: A novel computer-aided elastic shape analysis system for retinal vessels in diabetic retinopathy](https://doi.org/10.1016/j.compbiomed.2022.106406), **Xiaoling Luo**, Honggang Zhang, Jingyong Su, Wai Keung Wong, Jinkai L, Yong Xu, Computers in Biology and Medicine, 152: 106406, 2023 (JCR Q1, IF-7.7)
 
