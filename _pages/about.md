@@ -55,6 +55,11 @@ I am currently an assistant professor at Shenzhen University, Shenzhen. In 2023,
 
 - Masked Two-channel Decoupling Framework for Incomplete Multi-view Weak Multi-label Learning, Chengliang Liu, Jie Wen, Yabo Liu, Chao Huang, Zhihao Wu, **Xiaoling Luo**, Yong Xu, **NeurIPS 2023** (CCF-A)
 
+- Like an Ophthalmologist: Dynamic Selection Driven Multi-View Learning for Diabetic Retinopathy Grading, **Xiaoling Luo**, Qihao Xu, Huisi Wu, Chengliang Liu, Zhihui Lai, Linlin Shen, **AAAI 2025** (CCF-A)
+  
+- Deep Hierarchies and Invariant Disease-Indicative Feature Learning for Computer Aided Diagnosis of Multiple Fundus Diseases, Yuxin Lin, Wei Wang, **Xiaoling Luo**, Zhihao Wu, Chengliang Liu, Jie Wen, Yong Xu, **AAAI 2025** (CCF-A)
+
+- DAMPER: A Dual-Stage Medical Report Generation Framework with Coarse-Grained MeSH Alignment and Fine-Grained Hypergraph Matching, Xiaofei Huang, Wenting Chen, Jie Liu, Qisheng Lu, **Xiaoling Luo**, Linlin Shen, **AAAI 2025** (CCF-A)
 
 ## Journal Papers
 
