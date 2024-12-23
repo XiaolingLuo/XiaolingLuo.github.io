@@ -53,11 +53,11 @@ I am currently an assistant professor at Shenzhen University, Shenzhen. In 2023,
 
 - (Oral) [Incomplete Multi-View Multi-Label Learning via Label-Guided Masked View-and Category-Aware Transformers](https://arxiv.org/pdf/2303.07180), Chengliang Liu, Jie Wen, **Xiaoling Luo**, Yong Xu, **AAAI 2023** (CCF-A)
 
-- Masked Two-channel Decoupling Framework for Incomplete Multi-view Weak Multi-label Learning, Chengliang Liu, Jie Wen, Yabo Liu, Chao Huang, Zhihao Wu, **Xiaoling Luo**, Yong Xu, **NeurIPS 2023** (CCF-A)
+- [Masked Two-channel Decoupling Framework for Incomplete Multi-view Weak Multi-label Learning](https://proceedings.neurips.cc/paper_files/paper/2023/file/66772e6aa61e54ae16443ae1d78a7319-Paper-Conference.pdf), Chengliang Liu, Jie Wen, Yabo Liu, Chao Huang, Zhihao Wu, **Xiaoling Luo**, Yong Xu, **NeurIPS 2023** (CCF-A)
 
-- GEM: Context-Aware Gaze Estimation with Visual Search Behavior Matching for Chest Radiograph, Shaonan Liu, Wenting Chen, Jie Liu, **Xiaoling Luo**, Linlin Shen, **MICCAI 2024**  (CCF-B)
+- [GEM: Context-Aware Gaze Estimation with Visual Search Behavior Matching for Chest Radiograph](https://arxiv.org/pdf/2408.05502), Shaonan Liu, Wenting Chen, Jie Liu, **Xiaoling Luo**, Linlin Shen, **MICCAI 2024**  (CCF-B)
 
-- Simplify Implant Depth Prediction as Video Grounding: A Texture Perceive Implant Depth Prediction Network, Xinquan Yang, Xuguang Li, **Xiaoling Luo**, Leilei Zeng, Yudi Zhang, Linlin Shen, Yongqiang Deng, **MICCAI 2024**  (CCF-B)
+- [Simplify Implant Depth Prediction as Video Grounding: A Texture Perceive Implant Depth Prediction Network](https://arxiv.org/pdf/2406.04603), Xinquan Yang, Xuguang Li, **Xiaoling Luo**, Leilei Zeng, Yudi Zhang, Linlin Shen, Yongqiang Deng, **MICCAI 2024**  (CCF-B)
 
 - Like an Ophthalmologist: Dynamic Selection Driven Multi-View Learning for Diabetic Retinopathy Grading, **Xiaoling Luo**, Qihao Xu, Huisi Wu, Chengliang Liu, Zhihui Lai, Linlin Shen, **AAAI 2025** (CCF-A)
   
@@ -81,7 +81,7 @@ I am currently an assistant professor at Shenzhen University, Shenzhen. In 2023,
 
 - [MVDRNet: Multi-View Diabetic Retinopathy Detection by Combining DCNNs and Attention Mechanisms](https://doi.org/10.1016/j.patcog.2021.108104), **Xiaoling Luo**, Zuhui Pu, Yong Xu, Wai Keung Wong, Jingyong Su, Xiaoyan Dou, Baikang Ye, Jiying Hu, Lisha Mou, Pattern Recognition, 120: 108104, 2021. (CCF-B, JCR Q1, IF-8.0)
 
-- [Multi-resolution Dictionary Learning for Face Recognition](https://doi.org/10.1016/j.patcog.2019.04.027), **Xiaoling Luo**, Yong Xu, Jian Yang, Pattern Recognition, 93: 283-292, 2019. (CCF-B, JCR Q1, IF-14.255)
+- [Multi-resolution Dictionary Learning for Face Recognition](https://doi.org/10.1016/j.patcog.2019.04.027), **Xiaoling Luo**, Yong Xu, Jian Yang, Pattern Recognition, 93: 283-292, 2019. (CCF-B, JCR Q1, IF-8.0)
 
 
 
