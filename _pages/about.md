@@ -24,6 +24,8 @@ I am currently an assistant professor at Shenzhen University, Shenzhen. In 2023,
 
 # News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+- *2025.05*: One paper is accepted by ICML 2025!
+- *2025.05*: One paper is accepted by IJCAI 2025!
 - *2024.12*: Three papers are accepted by AAAI 2025!
 - *2024.07*: One paper is accepted by BIB!
 - *2024.06*: Two papers are accepted by MICCAI 2024!
@@ -64,6 +66,10 @@ I am currently an assistant professor at Shenzhen University, Shenzhen. In 2023,
 - Deep Hierarchies and Invariant Disease-Indicative Feature Learning for Computer Aided Diagnosis of Multiple Fundus Diseases, Yuxin Lin, Wei Wang, **Xiaoling Luo**, Zhihao Wu, Chengliang Liu, Jie Wen, Yong Xu, **AAAI 2025** (CCF-A)
 
 - DAMPER: A Dual-Stage Medical Report Generation Framework with Coarse-Grained MeSH Alignment and Fine-Grained Hypergraph Matching, Xiaofei Huang, Wenting Chen, Jie Liu, Qisheng Lu, **Xiaoling Luo**, Linlin Shen, **AAAI 2025** (CCF-A)
+
+- Enhancing Multimodal Protein Function Prediction through Dual-Branch Dynamic Selection with Reconstructive Pre-training, **Xiaoling Luo**, Peng Chen, Chengliang Liu, Xiaopeng Jin, Jie Wen, Yumeng Liu, Junsong Wang, **IJCAI 2025** (CCF-A)
+ 
+- Mutual Learning for SAM Adaptation: A Dual Collaborative Network Framework for Source-Free Domain Transfer, Yabo Liu, Jinghua Wang, Waikeung Wong, **Xiaoling Luo**, Chengliang Liu, Yong Xu, **ICML 2025** (CCF-A)
 
 ## Journal Papers
 
