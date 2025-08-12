@@ -24,6 +24,7 @@ I am currently an assistant professor at Shenzhen University, Shenzhen. In 2023,
 
 # News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+- *2025.07*: Two papers are accepted by ACM MM 2025!
 - *2025.05*: One paper is accepted by ICML 2025!
 - *2025.05*: One paper is accepted by IJCAI 2025!
 - *2024.12*: Three papers are accepted by AAAI 2025!
@@ -40,6 +41,10 @@ I am currently an assistant professor at Shenzhen University, Shenzhen. In 2023,
 
 
 ## Conference Papers
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/design.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Like an Ophthalmologist: Dynamic Selection Driven Multi-View Learning for Diabetic Retinopathy Grading](https://ojs.aaai.org/index.php/AAAI/article/view/34116), **Xiaoling Luo**, Qihao Xu, Huisi Wu, Chengliang Liu, Zhihui Lai, Linlin Shen, **AAAI 2025** (CCF-A)
+</div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/MVCINN.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 (Oral) [MVCINN: Multi-View Diabetic Retinopathy Detection Using a Deep Cross-Interaction Neural Network](https://ojs.aaai.org/index.php/AAAI/article/download/26080/25852), **Xiaoling Luo**, Chengliang Liu, Waikeung Wong, Jie Wen, Xiaopeng Jin, Yong Xu, **AAAI 2023** (CCF-A)
@@ -60,16 +65,18 @@ I am currently an assistant professor at Shenzhen University, Shenzhen. In 2023,
 - [GEM: Context-Aware Gaze Estimation with Visual Search Behavior Matching for Chest Radiograph](https://arxiv.org/pdf/2408.05502), Shaonan Liu, Wenting Chen, Jie Liu, **Xiaoling Luo**, Linlin Shen, **MICCAI 2024**  (CCF-B)
 
 - [Simplify Implant Depth Prediction as Video Grounding: A Texture Perceive Implant Depth Prediction Network](https://arxiv.org/pdf/2406.04603), Xinquan Yang, Xuguang Li, **Xiaoling Luo**, Leilei Zeng, Yudi Zhang, Linlin Shen, Yongqiang Deng, **MICCAI 2024**  (CCF-B)
-
-- Like an Ophthalmologist: Dynamic Selection Driven Multi-View Learning for Diabetic Retinopathy Grading, **Xiaoling Luo**, Qihao Xu, Huisi Wu, Chengliang Liu, Zhihui Lai, Linlin Shen, **AAAI 2025** (CCF-A)
   
-- Deep Hierarchies and Invariant Disease-Indicative Feature Learning for Computer Aided Diagnosis of Multiple Fundus Diseases, Yuxin Lin, Wei Wang, **Xiaoling Luo**, Zhihao Wu, Chengliang Liu, Jie Wen, Yong Xu, **AAAI 2025** (CCF-A)
+- [Deep Hierarchies and Invariant Disease-Indicative Feature Learning for Computer Aided Diagnosis of Multiple Fundus Diseases](https://ojs.aaai.org/index.php/AAAI/article/view/32566), Yuxin Lin, Wei Wang, **Xiaoling Luo**, Zhihao Wu, Chengliang Liu, Jie Wen, Yong Xu, **AAAI 2025** (CCF-A)
 
-- DAMPER: A Dual-Stage Medical Report Generation Framework with Coarse-Grained MeSH Alignment and Fine-Grained Hypergraph Matching, Xiaofei Huang, Wenting Chen, Jie Liu, Qisheng Lu, **Xiaoling Luo**, Linlin Shen, **AAAI 2025** (CCF-A)
+- [DAMPER: A Dual-Stage Medical Report Generation Framework with Coarse-Grained MeSH Alignment and Fine-Grained Hypergraph Matching](https://ojs.aaai.org/index.php/AAAI/article/view/32393), Xiaofei Huang, Wenting Chen, Jie Liu, Qisheng Lu, **Xiaoling Luo**, Linlin Shen, **AAAI 2025** (CCF-A)
 
 - Enhancing Multimodal Protein Function Prediction through Dual-Branch Dynamic Selection with Reconstructive Pre-training, **Xiaoling Luo**, Peng Chen, Chengliang Liu, Xiaopeng Jin, Jie Wen, Yumeng Liu, Junsong Wang, **IJCAI 2025** (CCF-A)
  
 - Mutual Learning for SAM Adaptation: A Dual Collaborative Network Framework for Source-Free Domain Transfer, Yabo Liu, Jinghua Wang, Waikeung Wong, **Xiaoling Luo**, Chengliang Liu, Yong Xu, **ICML 2025** (CCF-A)
+
+- PET-GPRA: Rethinking PET with Gradient-Aware Prompting and Router-Free Adapters for Few-shot Class-Incremental Learning, Yishu Liu, Zhiming Chen, Desen Wang, **Xiaoling Luo**, Bingzhi Chen, Guangming Lu, **ACM MM 2025** (CCF-A)
+
+- CauRDG: Enhancing Domain Generalization with Causal-Driven Semantic Consistency Reasoning, Zongxin Liu, Yishu Liu, Guangming Lu, **Xiaoling Luo**, Bingzhi Chen, **ACM MM 2025** (CCF-A)
 
 ## Journal Papers
 
