@@ -41,7 +41,7 @@ I am currently an assistant professor at Shenzhen University, Shenzhen. In 2023,
 
 
 ## Conference Papers
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/design.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/design.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Like an Ophthalmologist: Dynamic Selection Driven Multi-View Learning for Diabetic Retinopathy Grading](https://ojs.aaai.org/index.php/AAAI/article/view/34116), **Xiaoling Luo**, Qihao Xu, Huisi Wu, Chengliang Liu, Zhihui Lai, Linlin Shen, **AAAI 2025** (CCF-A)
 </div>
