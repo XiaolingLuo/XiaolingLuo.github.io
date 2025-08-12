@@ -54,6 +54,22 @@ I am currently an assistant professor at Shenzhen University, Shenzhen. In 2023,
 </div>
 - [HACDR-Net: Heterogeneous-Aware Convolutional Network for Diabetic Retinopathy Multi-Lesion Segmentation](https://ojs.aaai.org/index.php/AAAI/article/download/28453/28882), Qihao Xu, **Xiaoling Luo (corresponding author)**, Chao Huang, Chengliang Liu, Jie Wen, Jialei Wang, Yong Xu, **AAAI 2024** (CCF-A)
 
+- Enhancing Multimodal Protein Function Prediction through Dual-Branch Dynamic Selection with Reconstructive Pre-training, **Xiaoling Luo**, Peng Chen, Chengliang Liu, Xiaopeng Jin, Jie Wen, Yumeng Liu, Junsong Wang, **IJCAI 2025** (CCF-A)
+ 
+- Mutual Learning for SAM Adaptation: A Dual Collaborative Network Framework for Source-Free Domain Transfer, Yabo Liu, Jinghua Wang, Waikeung Wong, **Xiaoling Luo**, Chengliang Liu, Yong Xu, **ICML 2025** (CCF-A)
+
+- PET-GPRA: Rethinking PET with Gradient-Aware Prompting and Router-Free Adapters for Few-shot Class-Incremental Learning, Yishu Liu, Zhiming Chen, Desen Wang, **Xiaoling Luo**, Bingzhi Chen, Guangming Lu, **ACM MM 2025** (CCF-A)
+
+- CauRDG: Enhancing Domain Generalization with Causal-Driven Semantic Consistency Reasoning, Zongxin Liu, Yishu Liu, Guangming Lu, **Xiaoling Luo**, Bingzhi Chen, **ACM MM 2025** (CCF-A)
+
+- [Deep Hierarchies and Invariant Disease-Indicative Feature Learning for Computer Aided Diagnosis of Multiple Fundus Diseases](https://ojs.aaai.org/index.php/AAAI/article/view/32566), Yuxin Lin, Wei Wang, **Xiaoling Luo**, Zhihao Wu, Chengliang Liu, Jie Wen, Yong Xu, **AAAI 2025** (CCF-A)
+
+- [DAMPER: A Dual-Stage Medical Report Generation Framework with Coarse-Grained MeSH Alignment and Fine-Grained Hypergraph Matching](https://ojs.aaai.org/index.php/AAAI/article/view/32393), Xiaofei Huang, Wenting Chen, Jie Liu, Qisheng Lu, **Xiaoling Luo**, Linlin Shen, **AAAI 2025** (CCF-A)
+
+- [GEM: Context-Aware Gaze Estimation with Visual Search Behavior Matching for Chest Radiograph](https://arxiv.org/pdf/2408.05502), Shaonan Liu, Wenting Chen, Jie Liu, **Xiaoling Luo**, Linlin Shen, **MICCAI 2024**  (CCF-B)
+
+- [Simplify Implant Depth Prediction as Video Grounding: A Texture Perceive Implant Depth Prediction Network](https://arxiv.org/pdf/2406.04603), Xinquan Yang, Xuguang Li, **Xiaoling Luo**, Leilei Zeng, Yudi Zhang, Linlin Shen, Yongqiang Deng, **MICCAI 2024**  (CCF-B)
+
 - (Oral) [DICNet: Deep Instance-Level Contrastive Network for Double Incomplete Multi-View Multi-Label Classification](https://arxiv.org/pdf/2303.08358.pdf), Chengliang Liu, Jie Wen, **Xiaoling Luo**, Chao Huang, Zhihao Wu, Yong Xu, **AAAI 2023** (CCF-A)
   
 <!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'>
@@ -64,21 +80,8 @@ I am currently an assistant professor at Shenzhen University, Shenzhen. In 2023,
 
 - [Masked Two-channel Decoupling Framework for Incomplete Multi-view Weak Multi-label Learning](https://proceedings.neurips.cc/paper_files/paper/2023/file/66772e6aa61e54ae16443ae1d78a7319-Paper-Conference.pdf), Chengliang Liu, Jie Wen, Yabo Liu, Chao Huang, Zhihao Wu, **Xiaoling Luo**, Yong Xu, **NeurIPS 2023** (CCF-A)
 
-- [GEM: Context-Aware Gaze Estimation with Visual Search Behavior Matching for Chest Radiograph](https://arxiv.org/pdf/2408.05502), Shaonan Liu, Wenting Chen, Jie Liu, **Xiaoling Luo**, Linlin Shen, **MICCAI 2024**  (CCF-B)
 
-- [Simplify Implant Depth Prediction as Video Grounding: A Texture Perceive Implant Depth Prediction Network](https://arxiv.org/pdf/2406.04603), Xinquan Yang, Xuguang Li, **Xiaoling Luo**, Leilei Zeng, Yudi Zhang, Linlin Shen, Yongqiang Deng, **MICCAI 2024**  (CCF-B)
-  
-- [Deep Hierarchies and Invariant Disease-Indicative Feature Learning for Computer Aided Diagnosis of Multiple Fundus Diseases](https://ojs.aaai.org/index.php/AAAI/article/view/32566), Yuxin Lin, Wei Wang, **Xiaoling Luo**, Zhihao Wu, Chengliang Liu, Jie Wen, Yong Xu, **AAAI 2025** (CCF-A)
 
-- [DAMPER: A Dual-Stage Medical Report Generation Framework with Coarse-Grained MeSH Alignment and Fine-Grained Hypergraph Matching](https://ojs.aaai.org/index.php/AAAI/article/view/32393), Xiaofei Huang, Wenting Chen, Jie Liu, Qisheng Lu, **Xiaoling Luo**, Linlin Shen, **AAAI 2025** (CCF-A)
-
-- Enhancing Multimodal Protein Function Prediction through Dual-Branch Dynamic Selection with Reconstructive Pre-training, **Xiaoling Luo**, Peng Chen, Chengliang Liu, Xiaopeng Jin, Jie Wen, Yumeng Liu, Junsong Wang, **IJCAI 2025** (CCF-A)
- 
-- Mutual Learning for SAM Adaptation: A Dual Collaborative Network Framework for Source-Free Domain Transfer, Yabo Liu, Jinghua Wang, Waikeung Wong, **Xiaoling Luo**, Chengliang Liu, Yong Xu, **ICML 2025** (CCF-A)
-
-- PET-GPRA: Rethinking PET with Gradient-Aware Prompting and Router-Free Adapters for Few-shot Class-Incremental Learning, Yishu Liu, Zhiming Chen, Desen Wang, **Xiaoling Luo**, Bingzhi Chen, Guangming Lu, **ACM MM 2025** (CCF-A)
-
-- CauRDG: Enhancing Domain Generalization with Causal-Driven Semantic Consistency Reasoning, Zongxin Liu, Yishu Liu, Guangming Lu, **Xiaoling Luo**, Bingzhi Chen, **ACM MM 2025** (CCF-A)
 
 ## Journal Papers
 
