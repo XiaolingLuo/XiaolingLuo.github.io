@@ -52,7 +52,6 @@ I am currently an assistant professor at Shenzhen University, Shenzhen. In 2023,
 (Oral) [MVCINN: Multi-View Diabetic Retinopathy Detection Using a Deep Cross-Interaction Neural Network](https://ojs.aaai.org/index.php/AAAI/article/download/26080/25852), **Xiaoling Luo**, Chengliang Liu, Waikeung Wong, Jie Wen, Xiaopeng Jin, Yong Xu, **AAAI 2023** (CCF-A)
 </div>
 </div>
-- [HACDR-Net: Heterogeneous-Aware Convolutional Network for Diabetic Retinopathy Multi-Lesion Segmentation](https://ojs.aaai.org/index.php/AAAI/article/download/28453/28882), Qihao Xu, **Xiaoling Luo (corresponding author)**, Chao Huang, Chengliang Liu, Jie Wen, Jialei Wang, Yong Xu, **AAAI 2024** (CCF-A)
 
 - Enhancing Multimodal Protein Function Prediction through Dual-Branch Dynamic Selection with Reconstructive Pre-training, **Xiaoling Luo**, Peng Chen, Chengliang Liu, Xiaopeng Jin, Jie Wen, Yumeng Liu, Junsong Wang, **IJCAI 2025** (CCF-A)
  
@@ -65,6 +64,8 @@ I am currently an assistant professor at Shenzhen University, Shenzhen. In 2023,
 - [Deep Hierarchies and Invariant Disease-Indicative Feature Learning for Computer Aided Diagnosis of Multiple Fundus Diseases](https://ojs.aaai.org/index.php/AAAI/article/view/32566), Yuxin Lin, Wei Wang, **Xiaoling Luo**, Zhihao Wu, Chengliang Liu, Jie Wen, Yong Xu, **AAAI 2025** (CCF-A)
 
 - [DAMPER: A Dual-Stage Medical Report Generation Framework with Coarse-Grained MeSH Alignment and Fine-Grained Hypergraph Matching](https://ojs.aaai.org/index.php/AAAI/article/view/32393), Xiaofei Huang, Wenting Chen, Jie Liu, Qisheng Lu, **Xiaoling Luo**, Linlin Shen, **AAAI 2025** (CCF-A)
+
+- [HACDR-Net: Heterogeneous-Aware Convolutional Network for Diabetic Retinopathy Multi-Lesion Segmentation](https://ojs.aaai.org/index.php/AAAI/article/download/28453/28882), Qihao Xu, **Xiaoling Luo (corresponding author)**, Chao Huang, Chengliang Liu, Jie Wen, Jialei Wang, Yong Xu, **AAAI 2024** (CCF-A)
 
 - [GEM: Context-Aware Gaze Estimation with Visual Search Behavior Matching for Chest Radiograph](https://arxiv.org/pdf/2408.05502), Shaonan Liu, Wenting Chen, Jie Liu, **Xiaoling Luo**, Linlin Shen, **MICCAI 2024**  (CCF-B)
 
@@ -79,8 +80,6 @@ I am currently an assistant professor at Shenzhen University, Shenzhen. In 2023,
 - (Oral) [Incomplete Multi-View Multi-Label Learning via Label-Guided Masked View-and Category-Aware Transformers](https://arxiv.org/pdf/2303.07180), Chengliang Liu, Jie Wen, **Xiaoling Luo**, Yong Xu, **AAAI 2023** (CCF-A)
 
 - [Masked Two-channel Decoupling Framework for Incomplete Multi-view Weak Multi-label Learning](https://proceedings.neurips.cc/paper_files/paper/2023/file/66772e6aa61e54ae16443ae1d78a7319-Paper-Conference.pdf), Chengliang Liu, Jie Wen, Yabo Liu, Chao Huang, Zhihao Wu, **Xiaoling Luo**, Yong Xu, **NeurIPS 2023** (CCF-A)
-
-
 
 
 ## Journal Papers
