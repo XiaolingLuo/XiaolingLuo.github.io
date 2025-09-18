@@ -24,6 +24,7 @@ I am currently an assistant professor at Shenzhen University, Shenzhen. In 2023,
 
 # News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+- *2025.09*: One paper is accepted by NeurIPS 2025!
 - *2025.07*: Two papers are accepted by ACM MM 2025!
 - *2025.05*: One paper is accepted by ICML 2025!
 - *2025.05*: One paper is accepted by IJCAI 2025!
@@ -52,6 +53,8 @@ I am currently an assistant professor at Shenzhen University, Shenzhen. In 2023,
 (Oral) [MVCINN: Multi-View Diabetic Retinopathy Detection Using a Deep Cross-Interaction Neural Network](https://ojs.aaai.org/index.php/AAAI/article/download/26080/25852), **Xiaoling Luo**, Chengliang Liu, Waikeung Wong, Jie Wen, Xiaopeng Jin, Yong Xu, **AAAI 2023** (CCF-A)
 </div>
 </div>
+
+- Hierarchical Information Aggregation for Incomplete Multimodal Alzheimer's Disease Diagnosis, Chengliang Liu, Que Yuanxi, Qihao Xu, Yabo Liu, Jie Wen, Jinghua Wang, **Xiaoling Luo**, **NeurIPS 2025 (corresponding author)** (CCF-A)
 
 - Enhancing Multimodal Protein Function Prediction through Dual-Branch Dynamic Selection with Reconstructive Pre-training, **Xiaoling Luo**, Peng Chen, Chengliang Liu, Xiaopeng Jin, Jie Wen, Yumeng Liu, Junsong Wang, **IJCAI 2025** (CCF-A)
  
