@@ -54,7 +54,7 @@ I am currently an assistant professor at Shenzhen University, Shenzhen. In 2023,
 </div>
 </div>
 
-- Hierarchical Information Aggregation for Incomplete Multimodal Alzheimer's Disease Diagnosis, Chengliang Liu, Que Yuanxi, Qihao Xu, Yabo Liu, Jie Wen, Jinghua Wang, **Xiaoling Luo**, **NeurIPS 2025 (corresponding author)** (CCF-A)
+- Hierarchical Information Aggregation for Incomplete Multimodal Alzheimer's Disease Diagnosis, Chengliang Liu, Que Yuanxi, Qihao Xu, Yabo Liu, Jie Wen, Jinghua Wang, **Xiaoling Luo (corresponding author)**, **NeurIPS 2025** (CCF-A)
 
 - Enhancing Multimodal Protein Function Prediction through Dual-Branch Dynamic Selection with Reconstructive Pre-training, **Xiaoling Luo**, Peng Chen, Chengliang Liu, Xiaopeng Jin, Jie Wen, Yumeng Liu, Junsong Wang, **IJCAI 2025** (CCF-A)
  
