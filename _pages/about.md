@@ -54,6 +54,11 @@ I am currently an assistant professor at Shenzhen University, Shenzhen. In 2023,
 (Oral) [MVCINN: Multi-View Diabetic Retinopathy Detection Using a Deep Cross-Interaction Neural Network](https://ojs.aaai.org/index.php/AAAI/article/download/26080/25852), **Xiaoling Luo**, Chengliang Liu, Waikeung Wong, Jie Wen, Xiaopeng Jin, Yong Xu, **AAAI 2023** (CCF-A)
 </div>
 </div>
+- Vision-Language Models Guided Graph Concept Reasoning for Interpretable Diabetic Retinopathy Diagnosis, Qihao Xu, **Xiaoling Luo (corresponding author)**, Yuxin Lin, Chengliang Liu, Yongting Hu, Jinkai Li, XINHENG LYU, Yong Xu, **AAAI 2026** (CCF-A, Oral)
+
+- Frequency-Aligned Cross-Modal Learning with Top-K Wavelet Fusion and Dynamic Expert Routing for Enhanced Retinal Disease Diagnosis, Yuxin Lin, Haoran Li, Haoyu Cao, Yongting Hu, Qihao Xu, Chengliang Liu, **Xiaoling Luo**, Zhihao Wu, Wei Wang, Yong Xu, **AAAI 2026** (CCF-A)
+
+- VPSentry: Semi-supervised Video Polyp Segmentation via Sentry-guided Long-term Prototype Fusion with Correlation Dynamic Propagation, Guilian Chen, **Xiaoling Luo**, Huisi Wu, Jing Qin, **AAAI 2026** (CCF-A)
 
 - [Hierarchical Information Aggregation for Incomplete Multimodal Alzheimer's Disease Diagnosis](https://openreview.net/forum?id=P4KjfMrVNU), Chengliang Liu, Que Yuanxi, Qihao Xu, Yabo Liu, Jie Wen, Jinghua Wang, **Xiaoling Luo (corresponding author)**, **NeurIPS 2025** (CCF-A)
 
