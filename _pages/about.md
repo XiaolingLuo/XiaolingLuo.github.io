@@ -24,6 +24,7 @@ I am currently an assistant professor at Shenzhen University, Shenzhen. In 2023,
 
 # News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+- *2025.11*: Three papers are accepted by AAAI 2026!
 - *2025.09*: One paper is accepted by NeurIPS 2025!
 - *2025.07*: Two papers are accepted by ACM MM 2025!
 - *2025.05*: One paper is accepted by ICML 2025!
@@ -54,15 +55,15 @@ I am currently an assistant professor at Shenzhen University, Shenzhen. In 2023,
 </div>
 </div>
 
-- Hierarchical Information Aggregation for Incomplete Multimodal Alzheimer's Disease Diagnosis, Chengliang Liu, Que Yuanxi, Qihao Xu, Yabo Liu, Jie Wen, Jinghua Wang, **Xiaoling Luo (corresponding author)**, **NeurIPS 2025** (CCF-A)
+- [Hierarchical Information Aggregation for Incomplete Multimodal Alzheimer's Disease Diagnosis](https://openreview.net/forum?id=P4KjfMrVNU), Chengliang Liu, Que Yuanxi, Qihao Xu, Yabo Liu, Jie Wen, Jinghua Wang, **Xiaoling Luo (corresponding author)**, **NeurIPS 2025** (CCF-A)
 
-- Enhancing Multimodal Protein Function Prediction through Dual-Branch Dynamic Selection with Reconstructive Pre-training, **Xiaoling Luo**, Peng Chen, Chengliang Liu, Xiaopeng Jin, Jie Wen, Yumeng Liu, Junsong Wang, **IJCAI 2025** (CCF-A)
+- [Enhancing Multimodal Protein Function Prediction through Dual-Branch Dynamic Selection with Reconstructive Pre-training](https://arxiv.org/abs/2511.04040), **Xiaoling Luo**, Peng Chen, Chengliang Liu, Xiaopeng Jin, Jie Wen, Yumeng Liu, Junsong Wang, **IJCAI 2025** (CCF-A)
  
-- Mutual Learning for SAM Adaptation: A Dual Collaborative Network Framework for Source-Free Domain Transfer, Yabo Liu, Jinghua Wang, Waikeung Wong, **Xiaoling Luo**, Chengliang Liu, Yong Xu, **ICML 2025** (CCF-A)
+- [Mutual Learning for SAM Adaptation: A Dual Collaborative Network Framework for Source-Free Domain Transfer](https://proceedings.mlr.press/v267/liu25ca.html), Yabo Liu, Jinghua Wang, Waikeung Wong, **Xiaoling Luo**, Chengliang Liu, Yong Xu, **ICML 2025** (CCF-A)
 
-- PET-GPRA: Rethinking PET with Gradient-Aware Prompting and Router-Free Adapters for Few-shot Class-Incremental Learning, Yishu Liu, Zhiming Chen, Desen Wang, **Xiaoling Luo**, Bingzhi Chen, Guangming Lu, **ACM MM 2025** (CCF-A)
+- [PET-GPRA: Rethinking PET with Gradient-Aware Prompting and Router-Free Adapters for Few-shot Class-Incremental Learning](https://dl.acm.org/doi/10.1145/3746027.3755419), Yishu Liu, Zhiming Chen, Desen Wang, **Xiaoling Luo**, Bingzhi Chen, Guangming Lu, **ACM MM 2025** (CCF-A)
 
-- CauRDG: Enhancing Domain Generalization with Causal-Driven Semantic Consistency Reasoning, Zongxin Liu, Yishu Liu, Guangming Lu, **Xiaoling Luo**, Bingzhi Chen, **ACM MM 2025** (CCF-A)
+- [CauRDG: Enhancing Domain Generalization with Causal-Driven Semantic Consistency Reasoning](https://dl.acm.org/doi/10.1145/3746027.3755757), Zongxin Liu, Yishu Liu, Guangming Lu, **Xiaoling Luo**, Bingzhi Chen, **ACM MM 2025** (CCF-A)
 
 - [Deep Hierarchies and Invariant Disease-Indicative Feature Learning for Computer Aided Diagnosis of Multiple Fundus Diseases](https://ojs.aaai.org/index.php/AAAI/article/view/32566), Yuxin Lin, Wei Wang, **Xiaoling Luo**, Zhihao Wu, Chengliang Liu, Jie Wen, Yong Xu, **AAAI 2025** (CCF-A)
 
