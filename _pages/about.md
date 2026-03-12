@@ -25,7 +25,7 @@ I am currently an assistant professor at Shenzhen University, Shenzhen. In 2023,
 # News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 - *2026.03*: One paper is accepted by CVPR 2026!
-- *2026.02*: One paper is accepted by CVPR 2026!
+- *2026.02*: Two papers are accepted by ICLR 2026!
 - *2025.11*: Three papers are accepted by AAAI 2026!
 - *2025.09*: One paper is accepted by NeurIPS 2025!
 - *2025.07*: Two papers are accepted by ACM MM 2025!
@@ -59,8 +59,12 @@ I am currently an assistant professor at Shenzhen University, Shenzhen. In 2023,
 </div>
 
 
+
 - EchoVDiff: Cardiac-Cycle Echocardiography Video Generation from Arbitrary Frame, Jiansong Zhang, Xiaying Yang, **Xiaoling Luo**, Linlin Shen, **CVPR 2026** (CCF-A)
 
+- Permutation-Consistent Variational Encoding for Incomplete Multi-View Multi-Label Classification, Chengliang Liu, Bo Li, Bob Zhang, **Xiaoling Luo**, Yabo Liu, Jie Wen, **ICLR 2026** (CCF-A)
+  
+- Maximizing Incremental Information Entropy for Contrastive Learning, Jiansong Zhang, Zhuoqin Yang, Xu Wu, **Xiaoling Luo**, Peizhong Liu, Linlin Shen, **ICLR 2026** (CCF-A)
 
 - Vision-Language Models Guided Graph Concept Reasoning for Interpretable Diabetic Retinopathy Diagnosis, Qihao Xu, **Xiaoling Luo***, Yuxin Lin, Chengliang Liu, Yongting Hu, Jinkai Li, XINHENG LYU, Yong Xu, **AAAI 2026** (CCF-A, Oral)
 
@@ -68,7 +72,7 @@ I am currently an assistant professor at Shenzhen University, Shenzhen. In 2023,
 
 - VPSentry: Semi-supervised Video Polyp Segmentation via Sentry-guided Long-term Prototype Fusion with Correlation Dynamic Propagation, Guilian Chen, **Xiaoling Luo**, Huisi Wu, Jing Qin, **AAAI 2026** (CCF-A)
 
-- [Hierarchical Information Aggregation for Incomplete Multimodal Alzheimer's Disease Diagnosis](https://openreview.net/forum?id=P4KjfMrVNU), Chengliang Liu, Que Yuanxi, Qihao Xu, Yabo Liu, Jie Wen, Jinghua Wang, **Xiaoling Luo (corresponding author)**, **NeurIPS 2025** (CCF-A)
+- [Hierarchical Information Aggregation for Incomplete Multimodal Alzheimer's Disease Diagnosis](https://openreview.net/forum?id=P4KjfMrVNU), Chengliang Liu, Que Yuanxi, Qihao Xu, Yabo Liu, Jie Wen, Jinghua Wang, **Xiaoling Luo***, **NeurIPS 2025** (CCF-A)
 
 - [Enhancing Multimodal Protein Function Prediction through Dual-Branch Dynamic Selection with Reconstructive Pre-training](https://arxiv.org/abs/2511.04040), **Xiaoling Luo**, Peng Chen, Chengliang Liu, Xiaopeng Jin, Jie Wen, Yumeng Liu, Junsong Wang, **IJCAI 2025** (CCF-A)
  
@@ -82,7 +86,7 @@ I am currently an assistant professor at Shenzhen University, Shenzhen. In 2023,
 
 - [DAMPER: A Dual-Stage Medical Report Generation Framework with Coarse-Grained MeSH Alignment and Fine-Grained Hypergraph Matching](https://ojs.aaai.org/index.php/AAAI/article/view/32393), Xiaofei Huang, Wenting Chen, Jie Liu, Qisheng Lu, **Xiaoling Luo**, Linlin Shen, **AAAI 2025** (CCF-A)
 
-- [HACDR-Net: Heterogeneous-Aware Convolutional Network for Diabetic Retinopathy Multi-Lesion Segmentation](https://ojs.aaai.org/index.php/AAAI/article/download/28453/28882), Qihao Xu, **Xiaoling Luo (corresponding author)**, Chao Huang, Chengliang Liu, Jie Wen, Jialei Wang, Yong Xu, **AAAI 2024** (CCF-A)
+- [HACDR-Net: Heterogeneous-Aware Convolutional Network for Diabetic Retinopathy Multi-Lesion Segmentation](https://ojs.aaai.org/index.php/AAAI/article/download/28453/28882), Qihao Xu, **Xiaoling Luo***, Chao Huang, Chengliang Liu, Jie Wen, Jialei Wang, Yong Xu, **AAAI 2024** (CCF-A)
 
 - [GEM: Context-Aware Gaze Estimation with Visual Search Behavior Matching for Chest Radiograph](https://arxiv.org/pdf/2408.05502), Shaonan Liu, Wenting Chen, Jie Liu, **Xiaoling Luo**, Linlin Shen, **MICCAI 2024**  (CCF-B)
 
