@@ -24,6 +24,8 @@ I am currently an assistant professor at Shenzhen University, Shenzhen. In 2023,
 
 # News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+- *2026.03*: One paper is accepted by CVPR 2026!
+- *2026.02*: One paper is accepted by CVPR 2026!
 - *2025.11*: Three papers are accepted by AAAI 2026!
 - *2025.09*: One paper is accepted by NeurIPS 2025!
 - *2025.07*: Two papers are accepted by ACM MM 2025!
@@ -43,6 +45,7 @@ I am currently an assistant professor at Shenzhen University, Shenzhen. In 2023,
 
 
 ## Conference Papers
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/design.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Like an Ophthalmologist: Dynamic Selection Driven Multi-View Learning for Diabetic Retinopathy Grading](https://ojs.aaai.org/index.php/AAAI/article/view/34116), **Xiaoling Luo**, Qihao Xu, Huisi Wu, Chengliang Liu, Zhihui Lai, Linlin Shen, **AAAI 2025** (CCF-A)
@@ -54,7 +57,12 @@ I am currently an assistant professor at Shenzhen University, Shenzhen. In 2023,
 (Oral) [MVCINN: Multi-View Diabetic Retinopathy Detection Using a Deep Cross-Interaction Neural Network](https://ojs.aaai.org/index.php/AAAI/article/download/26080/25852), **Xiaoling Luo**, Chengliang Liu, Waikeung Wong, Jie Wen, Xiaopeng Jin, Yong Xu, **AAAI 2023** (CCF-A)
 </div>
 </div>
-- Vision-Language Models Guided Graph Concept Reasoning for Interpretable Diabetic Retinopathy Diagnosis, Qihao Xu, **Xiaoling Luo (corresponding author)**, Yuxin Lin, Chengliang Liu, Yongting Hu, Jinkai Li, XINHENG LYU, Yong Xu, **AAAI 2026** (CCF-A, Oral)
+
+
+- EchoVDiff: Cardiac-Cycle Echocardiography Video Generation from Arbitrary Frame, Jiansong Zhang, Xiaying Yang, **Xiaoling Luo**, Linlin Shen, **CVPR 2026** (CCF-A)
+
+
+- Vision-Language Models Guided Graph Concept Reasoning for Interpretable Diabetic Retinopathy Diagnosis, Qihao Xu, **Xiaoling Luo***, Yuxin Lin, Chengliang Liu, Yongting Hu, Jinkai Li, XINHENG LYU, Yong Xu, **AAAI 2026** (CCF-A, Oral)
 
 - Frequency-Aligned Cross-Modal Learning with Top-K Wavelet Fusion and Dynamic Expert Routing for Enhanced Retinal Disease Diagnosis, Yuxin Lin, Haoran Li, Haoyu Cao, Yongting Hu, Qihao Xu, Chengliang Liu, **Xiaoling Luo**, Zhihao Wu, Wei Wang, Yong Xu, **AAAI 2026** (CCF-A)
 
