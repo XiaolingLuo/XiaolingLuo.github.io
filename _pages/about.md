@@ -131,5 +131,9 @@ I am currently an assistant professor at Shenzhen University, Shenzhen. In 2023,
 - *2013.09 - 2017.06*, School of Software Engineering, South China Normal University, China. 
 
 # Academic Activities
-- Reviewers of IEEE TNNLS, Pattern Recognition, CAAI TRIT, AAAI, NeurIPS, ICML, ICLR, ACM MM, MICCAI
-- Program Committee Members of AAAI 
+- Associate Editor of Journals:
+Pattern Recognition (CCF-B, IF: 7.6)
+Neurocomputing (IF: 6.5)
+International Journal of Image and Graphics
+- Conference Program Committee: 
+CVPR / NeurIPS / ICLR / ECCV / ICML / ACL / AAAI / IJCAI / ACM-MM / MICCAI
