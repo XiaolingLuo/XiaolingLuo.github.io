@@ -24,6 +24,7 @@ I am currently an assistant professor at Shenzhen University, Shenzhen. In 2023,
 
 # News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+- *2026.05*: One paper is accepted by ICML 2026!
 - *2026.03*: One paper is accepted by CVPR 2026!
 - *2026.02*: Two papers are accepted by ICLR 2026!
 - *2025.11*: Three papers are accepted by AAAI 2026!
@@ -58,7 +59,7 @@ I am currently an assistant professor at Shenzhen University, Shenzhen. In 2023,
 </div>
 </div>
 
-
+- ProConMV: Provenance-Enabled Conceptual Framework for Interpretable Multi-View Diabetic Retinopathy Diagnosis, **Xiaoling_Luo**, Shuo Yang, Qihao Xu, Chengliang Liu, Jiansong Zhang, Zhuoqin Yang, Zhihui Lai, Linlin Shen, **ICML 2026** (CCF-A)
 
 - EchoVDiff: Cardiac-Cycle Echocardiography Video Generation from Arbitrary Frame, Jiansong Zhang, Xiaying Yang, **Xiaoling Luo**, Linlin Shen, **CVPR 2026** (CCF-A)
 
