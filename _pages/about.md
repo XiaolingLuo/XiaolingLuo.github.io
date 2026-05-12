@@ -109,7 +109,7 @@ I am currently an assistant professor at Shenzhen University, Shenzhen. In 2023,
 ## Journal Papers
 - [A Large-Scale Multi-View Fundus Images Dataset and Benchmark for Diabetic Retinopathy Grading](https://www.sciencedirect.com/science/article/abs/pii/S1566253526002423), **Xiaoling Luo**, Qiaojian Zheng, Chengliang Liu, Yangneng Chen, Xiaoyan Dou, Tianyi Luo, Yingying Wen, Chao Huang, Yong Xu, Jie Wen, Information Fusion, 134, 104363, 2026. (JCR Q1, Top, IF-15)
   
-- Multi-view Hilbert Curve-based Hierarchical Information Aggregation for Incomplete Multimodal Alzheimer’s Disease Diagnosis, Chengliang Liu, Yuanxi Que, Wai Keung Wong, Yabo Liu, **Xiaoling Luo***, IEEE Transactions on Medical Imaging, 2026.
+- [Multi-view Hilbert Curve-based Hierarchical Information Aggregation for Incomplete Multimodal Alzheimer’s Disease Diagnosis](https://ieeexplore.ieee.org/document/11501972), Chengliang Liu, Yuanxi Que, Wai Keung Wong, Yabo Liu, **Xiaoling Luo***, IEEE Transactions on Medical Imaging, 2026.
 
 - [A Lesion-Fusion Neural Network for Multi-View Diabetic Retinopathy Grading](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10488692), **Xiaoling Luo**, Qihao Xu, Zhihua Wang, et al., IEEE Journal of Biomedical and Health Informatics, Early Access, 1-11, 2024. (JCR Q1, Top, IF-7.7)
 
