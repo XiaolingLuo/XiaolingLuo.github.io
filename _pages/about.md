@@ -61,19 +61,19 @@ I am currently an assistant professor at Shenzhen University, Shenzhen. In 2023,
 </div>
 </div>
 
-- ProConMV: Provenance-Enabled Conceptual Framework for Interpretable Multi-View Diabetic Retinopathy Diagnosis, **Xiaoling_Luo**, Shuo Yang, Qihao Xu, Chengliang Liu, Jiansong Zhang, Zhuoqin Yang, Zhihui Lai, Linlin Shen, **ICML 2026** (CCF-A)
+- [ProConMV: Provenance-Enabled Conceptual Framework for Interpretable Multi-View Diabetic Retinopathy Diagnosis](https://openreview.net/forum?id=9gc58FeBba), **Xiaoling_Luo**, Shuo Yang, Qihao Xu, Chengliang Liu, Jiansong Zhang, Zhuoqin Yang, Zhihui Lai, Linlin Shen, **ICML 2026** (CCF-A)
 
-- EchoVDiff: Cardiac-Cycle Echocardiography Video Generation from Arbitrary Frame, Jiansong Zhang, Xiaying Yang, **Xiaoling Luo**, Linlin Shen, **CVPR 2026** (CCF-A)
+- [EchoVDiff: Cardiac-Cycle Echocardiography Video Generation from Arbitrary Frame](https://arxiv.org/html/2503.22357v1), Jiansong Zhang, Xiaying Yang, **Xiaoling Luo**, Linlin Shen, **CVPR 2026** (CCF-A)
 
-- Permutation-Consistent Variational Encoding for Incomplete Multi-View Multi-Label Classification, Chengliang Liu, Bo Li, Bob Zhang, **Xiaoling Luo**, Yabo Liu, Jie Wen, **ICLR 2026** (CCF-A)
+- [Permutation-Consistent Variational Encoding for Incomplete Multi-View Multi-Label Classification](https://openreview.net/pdf?id=y4LyiOIOUn), Chengliang Liu, Bo Li, Bob Zhang, **Xiaoling Luo**, Yabo Liu, Jie Wen, **ICLR 2026** (CCF-A)
   
-- Maximizing Incremental Information Entropy for Contrastive Learning, Jiansong Zhang, Zhuoqin Yang, Xu Wu, **Xiaoling Luo**, Peizhong Liu, Linlin Shen, **ICLR 2026** (CCF-A)
+- [Maximizing Incremental Information Entropy for Contrastive Learning](https://arxiv.org/pdf/2603.12594), Jiansong Zhang, Zhuoqin Yang, Xu Wu, **Xiaoling Luo**, Peizhong Liu, Linlin Shen, **ICLR 2026** (CCF-A)
 
-- Vision-Language Models Guided Graph Concept Reasoning for Interpretable Diabetic Retinopathy Diagnosis, Qihao Xu, **Xiaoling Luo***, Yuxin Lin, Chengliang Liu, Yongting Hu, Jinkai Li, XINHENG LYU, Yong Xu, **AAAI 2026** (CCF-A, Oral)
+- [Vision-Language Models Guided Graph Concept Reasoning for Interpretable Diabetic Retinopathy Diagnosis](https://ojs.aaai.org/index.php/AAAI/article/download/39948/43909), Qihao Xu, **Xiaoling Luo***, Yuxin Lin, Chengliang Liu, Yongting Hu, Jinkai Li, XINHENG LYU, Yong Xu, **AAAI 2026** (CCF-A, Oral)
 
-- Frequency-Aligned Cross-Modal Learning with Top-K Wavelet Fusion and Dynamic Expert Routing for Enhanced Retinal Disease Diagnosis, Yuxin Lin, Haoran Li, Haoyu Cao, Yongting Hu, Qihao Xu, Chengliang Liu, **Xiaoling Luo**, Zhihao Wu, Wei Wang, Yong Xu, **AAAI 2026** (CCF-A)
+- [Frequency-Aligned Cross-Modal Learning with Top-K Wavelet Fusion and Dynamic Expert Routing for Enhanced Retinal Disease Diagnosis](https://ojs.aaai.org/index.php/AAAI/article/download/37635/41597), Yuxin Lin, Haoran Li, Haoyu Cao, Yongting Hu, Qihao Xu, Chengliang Liu, **Xiaoling Luo**, Zhihao Wu, Wei Wang, Yong Xu, **AAAI 2026** (CCF-A)
 
-- VPSentry: Semi-supervised Video Polyp Segmentation via Sentry-guided Long-term Prototype Fusion with Correlation Dynamic Propagation, Guilian Chen, **Xiaoling Luo**, Huisi Wu, Jing Qin, **AAAI 2026** (CCF-A)
+- [VPSentry: Semi-supervised Video Polyp Segmentation via Sentry-guided Long-term Prototype Fusion with Correlation Dynamic Propagation](https://ojs.aaai.org/index.php/AAAI/article/view/37275/41237), Guilian Chen, **Xiaoling Luo**, Huisi Wu, Jing Qin, **AAAI 2026** (CCF-A)
 
 - [Hierarchical Information Aggregation for Incomplete Multimodal Alzheimer's Disease Diagnosis](https://openreview.net/forum?id=P4KjfMrVNU), Chengliang Liu, Que Yuanxi, Qihao Xu, Yabo Liu, Jie Wen, Jinghua Wang, **Xiaoling Luo***, **NeurIPS 2025** (CCF-A)
 
@@ -111,7 +111,7 @@ I am currently an assistant professor at Shenzhen University, Shenzhen. In 2023,
   
 - [Multi-view Hilbert Curve-based Hierarchical Information Aggregation for Incomplete Multimodal Alzheimer’s Disease Diagnosis](https://ieeexplore.ieee.org/document/11501972), Chengliang Liu, Yuanxi Que, Wai Keung Wong, Yabo Liu, **Xiaoling Luo***, IEEE Transactions on Medical Imaging, 2026. (JCR Q1, Top, IF-9.8)
 
-- [A Lesion-Fusion Neural Network for Multi-View Diabetic Retinopathy Grading](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10488692), **Xiaoling Luo**, Qihao Xu, Zhihua Wang, et al., IEEE Journal of Biomedical and Health Informatics, Early Access, 1-11, 2024. (JCR Q1, Top, IF-7.7)
+- [A Lesion-Fusion Neural Network for Multi-View Diabetic Retinopathy Grading](https://ieeexplore.ieee.org/document/10488692), **Xiaoling Luo**, Qihao Xu, Zhihua Wang, et al., IEEE Journal of Biomedical and Health Informatics, Early Access, 1-11, 2024. (JCR Q1, Top, IF-7.7)
 
 -  [A comprehensive review and comparison of existing computational methods for protein function prediction](https://academic.oup.com/bib/article/25/4/bbae289/7696515?login=false), Baohui Lin#, **Xiaoling Luo**#, Yumeng Liu, Xiaopeng Jin, Briefings in Bioinformatics, Volume 25, Issue 4, July 2024, bbae289. (JCR Q1, Top，IF-6.8)
 
