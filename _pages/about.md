@@ -61,7 +61,7 @@ I am currently an assistant professor at Shenzhen University, Shenzhen. In 2023,
 </div>
 </div>
 
-- [ProConMV: Provenance-Enabled Conceptual Framework for Interpretable Multi-View Diabetic Retinopathy Diagnosis](https://openreview.net/forum?id=9gc58FeBba), **Xiaoling_Luo**, Shuo Yang, Qihao Xu, Chengliang Liu, Jiansong Zhang, Zhuoqin Yang, Zhihui Lai, Linlin Shen, **ICML 2026** (CCF-A)
+- ProConMV: Provenance-Enabled Conceptual Framework for Interpretable Multi-View Diabetic Retinopathy Diagnosis, **Xiaoling_Luo**, Shuo Yang, Qihao Xu, Chengliang Liu, Jiansong Zhang, Zhuoqin Yang, Zhihui Lai, Linlin Shen, **ICML 2026** (CCF-A)
 
 - [EchoVDiff: Cardiac-Cycle Echocardiography Video Generation from Arbitrary Frame](https://arxiv.org/html/2503.22357v1), Jiansong Zhang, Xiaying Yang, **Xiaoling Luo**, Linlin Shen, **CVPR 2026** (CCF-A)
 
