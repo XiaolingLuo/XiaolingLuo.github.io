@@ -24,6 +24,8 @@ I am currently an assistant professor at Shenzhen University, Shenzhen. In 2023,
 
 # News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+- *2026.07*: Three papers are accepted by ACM MM 2026!
+- *2026.06*: One paper is accepted by MICCAI 2026!
 - *2026.05*: One paper is accepted by ICML 2026!
 - *2026.04*: One paper is accepted by TMI!
 - *2026.04*: One paper is accepted by Information Fusion!
