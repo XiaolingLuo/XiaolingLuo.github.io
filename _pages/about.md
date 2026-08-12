@@ -63,7 +63,17 @@ I am currently an assistant professor at Shenzhen University, Shenzhen. In 2023,
 </div>
 </div>
 
-- ProConMV: Provenance-Enabled Conceptual Framework for Interpretable Multi-View Diabetic Retinopathy Diagnosis, **Xiaoling_Luo**, Shuo Yang, Qihao Xu, Chengliang Liu, Jiansong Zhang, Zhuoqin Yang, Zhihui Lai, Linlin Shen, **ICML 2026** (CCF-A)
+- A Large-Scale Multi-Modal Benchmark and Robust Text-Free Inference for Breast Ultrasound Video, Qiwei Wu, Zhihui Lai, **Xiaoling Luo***, Heng Kong, Foping Chen, Junhong Zhang, Guangfei Liang, **ACM MM 2026** (CCF-A)
+
+- SurvAgent: Hierarchical CoT-Enhanced Case Banking and Dichotomy-Based Multi-Agent System for Multimodal Survival Prediction, Guolin Huang, Wenting Chen, Jiaqi Yang, XINHENG LYU, **Xiaoling Luo**, Sen Yang, Xiaohan Xing, Linlin Shen, **ACM MM 2026** (CCF-A)
+
+- NSMNet: Stabilizing Linear State-space Memory for Breast Ultrasound Video Segmentation, Foping Chen, Zhihui Lai, Haoquan Lu, Junhong Zhang, Qiwei Wu, **Xiaoling Luo**, Heng Kong, **ACM MM 2026** (CCF-A)
+
+- OphthFlowBench: A Unified Ophthalmology Multimodal Benchmark with Workflow-Aligned Evaluation, Qiaojian Zheng, **Xiaoling Luo***, Meidan Ding, Ruli Zheng, Xiaoyan Dou, Yingying Wen, Chengliang Liu, Linlin Shen, **MICCAI 2026** (CCF-B)
+
+- [ProConMV: Provenance-Enabled Conceptual Framework for Interpretable Multi-View Diabetic Retinopathy Diagnosis](https://icml.cc/virtual/2026/poster/66377), **Xiaoling_Luo**, Shuo Yang, Qihao Xu, Chengliang Liu, Jiansong Zhang, Zhuoqin Yang, Zhihui Lai, Linlin Shen, **ICML 2026** (CCF-A)
+
+- [ProConMV: Provenance-Enabled Conceptual Framework for Interpretable Multi-View Diabetic Retinopathy Diagnosis](https://openreview.net/pdf?id=4F4Ziv1d9G), **Xiaoling_Luo**, Shuo Yang, Qihao Xu, Chengliang Liu, Jiansong Zhang, Zhuoqin Yang, Zhihui Lai, Linlin Shen, **ICML 2026** (CCF-A)
 
 - [EchoVDiff: Cardiac-Cycle Echocardiography Video Generation from Arbitrary Frame](https://arxiv.org/html/2503.22357v1), Jiansong Zhang, Xiaying Yang, **Xiaoling Luo**, Linlin Shen, **CVPR 2026** (CCF-A)
 
